@@ -2,7 +2,6 @@ import 'package:favorite_places/providers/places_provider.dart';
 import 'package:flutter/material.dart';
 
 import 'package:favorite_places/screens/new_place_screen.dart';
-import 'package:favorite_places/models/place.dart';
 import 'package:favorite_places/widgets/places_list.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
